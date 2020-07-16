@@ -1,0 +1,10 @@
+package epam.com.clean_code;
+
+public class Cost extends House{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("cost of the house is "+FullyHomeCost("HighStandardMaterials",2500));
+	}
+
+}

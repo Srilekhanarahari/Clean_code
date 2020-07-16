@@ -1,0 +1,10 @@
+package epam.com.clean_code;
+
+public class Cost {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
