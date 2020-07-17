@@ -24,6 +24,6 @@ public class SimpleCompoundTest
     public void test()
     {
     	assertEquals(120,s.simpleInterest(6000,1,2),0);
-		assertEquals(1200,s.compoundInterest(6000,20,1),0);;
+		assertEquals(1200,s.compoundInterest(6000,20,1),0);
     }
 }
